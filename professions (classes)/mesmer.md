@@ -1,8 +1,10 @@
 # Mesmer
 ## Disclaimer
 Everything listed here is, for now, taken from: https://docs.google.com/file/d/0B_IwajDD13e2OTVRMkU5a09CVTg/edit?hl=en-GB&forcehl=1
+
 As posted in the Dungeon World Tavern goolge+ Community.
-There's more to be done, as this should not just be a class for Dungeon World it should be a class for TH.
+
+There's more to be done, this should not just be a class for Dungeon World it should be a profession for Tyria.
 
 ## Name
 * Human: Avon, Morgan, Rath, Ysolde, Ovid, Vitus, Aldara, Xeno, Uri
