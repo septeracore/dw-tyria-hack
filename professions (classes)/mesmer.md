@@ -12,7 +12,7 @@ There's more to be done, as this should not just be a class for Dungeon World it
 ## Background
 
 ## Look
-* Eyse: Haunted Eyes, Sharp Eyes, Crazy Eyes
+* Eyes: Haunted Eyes, Sharp Eyes, Crazy Eyes
 * Hair: Styled Hair, Wild Hair, Pointed Hat
 * Clothes: Worn Robes, Stylish Robes, Strange Robes
 * Body: Pudgy Body, Creepy Body, Thin Body
@@ -38,20 +38,23 @@ Strength | Dexterity | Constituion | Intelligence | Wisdom | Charisma
 
 ## Bonds
 Fill in the names of your companions in at least one:
-* --- always fall sfo rmy tricks; I will have fun with this one.
-* --- distrusts me, and I don't know why.
+* ---- always falls for my tricks; I will have fun with this one.
+* ---- distrusts me, and I don't know why.
 * Somehow, ---- can see through my tricks, why is that?
 * The magic ---- uses interests me, I wish to find out more.
 
 ## Gear
-Your laod is 7+STR. You start with Dungeon Rations (5 uses, weight 1) and 3 coins.
+Your load is 7+STR. You start with Dungeon Rations (5 uses, weight 1) and 3 coins.
+
 Choose your weapon:
 * Dagger (Hand, 1 weight)
 * Rapier (Close, Precise, 1 weight)
 * Scepter (Close, 1 weight)
+
 Choose one:
 * 2 antitoxins (0 weight)
 * 2 healing potions (0 weight)
+
 Choose two:
 * 5 coins
 * Dungeon Rations (5 uses, 1 weight)
@@ -162,12 +165,3 @@ When you have at least one mirror image still active, you have +2 armor.
 #### Inception
 When you talk to a NPC, you can roll +CHA, on a "10+ you make them 
 believe one thing about you, on a "7-9, they believe one thing about you but will quickly realize you have tricked them when you stop talking to them.
-
-## Spells
-
-### Rotes
-### First Level Spells
-### Third Level Spells
-### Fifth Level Spells
-### Seventh Level Spells
-### Ninth Level Spells
