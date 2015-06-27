@@ -1,6 +1,7 @@
 # Animal
 
 ## Template
+
 ### Name
 #### Stats
 * Tags:
@@ -14,6 +15,7 @@
 #### Description
 #### Instinct
 #### Move
+
 
 Name: | Tags:  
 ------| ------
