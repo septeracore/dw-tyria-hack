@@ -2,5 +2,3 @@
 ## Types
 
 * Ogden Stonehealer
-
-

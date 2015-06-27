@@ -28,9 +28,6 @@
 * Distant Oracle
 * Enduring Protector
 * Fallen Into Night
-
-	
-
 * Farthest Shore
 * Fleeting Serenity
 * Flowing Ice
@@ -58,9 +55,6 @@
 * Infinite Mind
 * Keeper of Words
 * Kodan Icehammer
-
-	
-
 * Kodan Refugee
 * Kodan Snowcaller
 * Lasting Journey
@@ -88,9 +82,6 @@
 * Survivor of Guilt
 * Tattered Spite
 * Taught by Whales
-
-	
-
 * Tempered Emotion
 * Tempered Longing
 * Tempered Resolve

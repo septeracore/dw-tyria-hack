@@ -67,9 +67,6 @@
 * Inventor Lori'pette
 * Inventor Shminkta
 * Jinkadink
-
-	
-
 * Jithklackt
 * Kakkilak
 * Katterer
@@ -136,9 +133,6 @@
 * Skritt Forager Taketaki
 * Skritt Forager Takkiti
 * Skritt Gear Lobber
-
-	
-
 * Skritt IQ Test Subject
 * Skritt King
 * Skritt King (skill challenge)
@@ -204,8 +198,3 @@
 * Yutatta the Soother
 * Zeetoktin
 * Zotturrikk
-
-	
-
-
-

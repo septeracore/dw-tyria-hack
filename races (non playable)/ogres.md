@@ -23,9 +23,6 @@
 * Herder Curlwp
 * Herder Krink
 * Herder Larwp
-
-	
-
 * Herder Mowp
 * Jawp
 * Jonkor
@@ -48,9 +45,6 @@
 * Ponponi Shinyteeth
 * Porgar
 * Rauwp
-
-	
-
 * Rupek
 * Shelp
 * Slugger

@@ -18,9 +18,6 @@
 * Grawl Refugee
 * Grawl Shaman
 * Grawl Thief
-
-	
-
 * Grawl Trapper
 * Grawnk
 * Grub Farmer
@@ -38,9 +35,6 @@
 * Shaman Shoba
 * Tarstar Chief
 * The Noble Ookugg
-
-	
-
 * Veteran Dragon Tribe Grawl Berserker
 * Veteran Dragon Tribe Grawl Hunter
 * Veteran Dragon Tribe Grawl Shaman

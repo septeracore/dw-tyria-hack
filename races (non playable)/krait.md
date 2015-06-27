@@ -13,9 +13,6 @@
 * Elite Toxic Hypnoss
 * Elite Toxic Nimross
 * Head Slaver Nymfassa
-
-	
-
 * Krait Damoss
 * Krait Hypnoss
 * Krait Leader
@@ -28,9 +25,6 @@
 * The Blood Witch
 * Toxic Damoss
 * Toxic Hypnoss
-
-	
-
 * Toxic Nimross
 * Toxic Oratuss
 * Toxic Slaver
@@ -42,5 +36,3 @@
 * Veteran Toxic Damoss
 * Veteran Toxic Hypnoss
 * Veteran Toxic Nimross
-
-	

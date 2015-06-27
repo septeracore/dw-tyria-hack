@@ -34,9 +34,6 @@
 * Commissioner Baabloo
 * Cooroo
 * Crazed Quaggan
-
-	
-
 * Daboof
 * Deiugoo
 * Diseased Quaggan
@@ -70,9 +67,6 @@
 * Harvester
 * Jubjup
 * Judging Quaggan
-
-	
-
 * Juudow
 * Kerlapp
 * Kookoochoo the Incredulous
@@ -142,9 +136,6 @@
 * Sloolap
 * Slupsloop
 * Soggumaa
-
-	
-
 * Soumurrasou
 * Spelugg
 * Suwash

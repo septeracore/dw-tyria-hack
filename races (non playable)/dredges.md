@@ -24,9 +24,6 @@
 * Dredge Oscillator
 * Dredge Ratnik
 * Dredge Repair Crew
-
-	
-
 * Dredge Resonator
 * Dredge Resonator General
 * Dredge Reverberant
@@ -50,9 +47,6 @@
 * Miner Voss
 * Molten Disaggregator
 * Molten Excavator
-
-	
-
 * Molten Firestorm
 * Molten Oscillator
 * Molten Protector
@@ -76,9 +70,6 @@
 * The Grey Terror
 * The Taskmaster
 * Vambery
-
-	
-
 * Veteran Dredge Commissar
 * Veteran Dredge Disaggregator
 * Veteran Dredge Exterminator
@@ -102,5 +93,3 @@
 * Vladok
 * Vyacheslav
 * War Minister Shukov
-
-	

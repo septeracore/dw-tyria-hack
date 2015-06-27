@@ -36,9 +36,6 @@
 * Colopl
 * Cook Huelic
 * Cook Nhatepi
-
-	
-
 * Costi Atl
 * Cotatl
 * Cotl
@@ -74,9 +71,6 @@
 * Lapatl Chieftain
 * Lapatl Cuintli
 * Lonatl Supplier Huayapl
-
-	
-
 * Manchatl
 * Mate Hui
 * Matlal
@@ -112,9 +106,6 @@
 * Stranger
 * Tatli
 * Techutli
-
-	
-
 * Teki
 * Tinuatl
 * Tlacaxuatl

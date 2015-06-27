@@ -29,9 +29,6 @@
 * Harathi Sharpshooter
 * Harathi Slave Master
 * Harathi Trampler
-
-	
-
 * Hruud the Reaver
 * Hruugar Ironhaunch
 * Iremm Swiftdance
@@ -60,9 +57,6 @@
 * Outcast Qindova
 * Tamini Archer
 * Tamini Captor
-
-	
-
 * Tamini Chieftain
 * Tamini Raider
 * Tamini Siegemaster
@@ -89,5 +83,3 @@
 * Veteran Tamini Chieftain
 * Veteran Tamini Mogul
 * Veteran Tamini Warrior
-
-	
