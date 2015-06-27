@@ -27,10 +27,7 @@ There's no ETA yet, at the moment I'm looking for willing people to help out wit
 ## What is left to be done?
 Nearly everything, I created this repository and filled it with nothing. Really, most of the markdown files listed are empty for now. I wanted to get the structure for the repo going. The profession files are at least filled with a template to hold the information needed for them. As soon as I get to it I'll do the same with races and monsters.
 
-Files that actually have content:
-* README.md
-* LICENSE.md
-* professions (classes)/mesmer.md
+Most files contain at least a list of all types in their category taken from the Guild Wars 2 Wiki.
 
 ## Where to talk about this?
 There's a subreddit that can be used: http://www.reddit.com/r/dwtyriahack
