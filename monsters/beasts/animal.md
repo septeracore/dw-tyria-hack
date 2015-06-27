@@ -8,12 +8,16 @@
 * HP: 
 * Armor: 
 * Special Qualities:
+
 #### Attack
 * Type/Weapon: 
 * Damage:
 * Range:
+
 #### Description
+
 #### Instinct
+
 #### Move
 
 
