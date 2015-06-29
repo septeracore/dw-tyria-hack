@@ -16,10 +16,7 @@
 * Legendary Pyroxis
 * Megadestroyer
 * Obsidian Destroyer Troll
-* Veteran Destroyer Crab
-* Veteran Destroyer Harpy
 * Veteran Destroyer Lieutenant
-* Veteran Destroyer Troll
 * Veteran Giant Destroyer Crab
 * Volatile Destroyer Crab
 * Volatile Destroyer Harpy

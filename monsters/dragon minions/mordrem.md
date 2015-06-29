@@ -3,26 +3,15 @@
 * Aerin
 * Bioluminescent Lurcher
 * Champion Avatar of Blight
-* Champion Jungle Tendril
 * Champion Mordrem Beekeeper
 * Champion Mordrem Dark Wing
-* Champion Mordrem Husk
 * Champion Mordrem Husk Copper
-* Champion Mordrem Husk Offshoot
-* Champion Mordrem Leeching Thrasher
 * Champion Mordrem Mangler
 * Champion Mordrem Teragriff Gold
 * Champion Mordrem Teragriff Silver
-* Champion Mordrem Thrasher
 * Champion Mordrem Thrasher Platinum
 * Champion Mordrem Troll Iron
-* Champion Mordrem Vile Thrasher
-* Champion Mordrem Wolf
 * Dragon Tendril
-* Elite Mordrem Husk
-* Elite Mordrem Husk Offshoot
-* Elite Mordrem Mender
-* Elite Mordrem Wolf
 * Flame-resistant Vinetender
 * Gas Bubble
 * Grasping Jungle Tendril
@@ -67,19 +56,8 @@
 * Shadow of the Dragon
 * Smothering Shadow
 * Summoned Jungle Tendril Root
-* Veteran Jungle Tendril
-* Veteran Jungle Tendril (event boss)
 * Veteran Mordrem Gravelash
-* Veteran Mordrem Husk
-* Veteran Mordrem Husk Offshoot
-* Veteran Mordrem Leeching Thrasher
-* Veteran Mordrem Mender
-* Veteran Mordrem Teragriff
-* Veteran Mordrem Troll
 * Veteran Mordrem Troll (Iron)
-* Veteran Mordrem Vile Thrasher
-* Veteran Mordrem Wolf
-* Veteran Mordrem Wolf (event boss)
 * Veteran Overgrown Husk
 * Veteran Overgrown Vile Thrasher
 * Vine Chamber
