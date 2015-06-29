@@ -8,7 +8,6 @@
 * Bloodscale
 * Champion Giant Basilisk
 * Champion Ice Drake Broodmother
-* Champion Marsh Drake
 * Gaheron's Pet Drake
 * Ice Drake
 * Ice Drake Broodmother
@@ -33,8 +32,6 @@
 * Scaled Drake
 * Scaled Drake Hatchling
 * Sickened Basilisk
-* Veteran Aggressive Drake
-* Veteran Basilisk
 * Veteran Frenzied Scaled Drake
 * Veteran Marsh Drake
 * Veteran Reef Drake

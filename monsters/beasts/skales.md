@@ -14,8 +14,4 @@
 * Skale Hatchling
 * Skale Posse
 * Toxic Skale
-* Veteran Bog Skale
-* Veteran Brackish Skale
-* Veteran Ridgeback Skale
-* Veteran Toxic Skale
 * Veteran Vicious Brackish Skale

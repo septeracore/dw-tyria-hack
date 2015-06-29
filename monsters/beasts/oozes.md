@@ -3,7 +3,6 @@
 * Ancient Ooze
 * Blood Ooze
 * Blue Ooze
-* Champion Chromatic Ooze
 * Champion Morphing Ooze
 * Champion Ooze King
 * Champion Subject 6
@@ -24,12 +23,7 @@
 * Toxic Ooze
 * Translucent Ooze
 * United Ooze
-* Veteran Chromatic Ooze
 * Veteran Giant Ooze
 * Veteran Ooze
-* Veteran Red Ooze
-* Veteran Toxic Ooze
-* Veteran Translucent Ooze
-* Veteran Unstable Ooze
 * Well-fed Ooze
 * Yellow Ooze

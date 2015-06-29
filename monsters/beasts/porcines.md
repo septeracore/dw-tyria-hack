@@ -15,8 +15,6 @@
 * Veteran Dire Boar
 * Veteran Furious Jungle Boar
 * Veteran Giant Boar
-* Veteran Jungle Boar
-* Veteran Warthog
 * Vicious Dire Boar
 * Warthog
 * Wooly Siamoth

@@ -8,4 +8,3 @@
 * Jungle Grub
 * Luminescent Grub
 * Overgrown Grub
-* Veteran Grub

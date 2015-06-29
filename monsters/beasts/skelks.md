@@ -1,7 +1,6 @@
 # Skelks
 ## Types
 * Alpine Skelk
-* Champion Jungle Skelk Lurker
 * Champion Putrescent Skelk
 * Elite Reef Skelk
 * Fix
@@ -18,10 +17,5 @@
 * Skelk Lurker
 * Skelk Scavenger
 * Tix
-* Veteran Alpine Skelk
 * Veteran Fleshgrazer
-* Veteran Jungle Skelk Lurker
-* Veteran Reef Skelk
-* Veteran Shadow Skelk
-* Veteran Skelk Lurker
 * Vix

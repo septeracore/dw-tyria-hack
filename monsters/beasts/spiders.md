@@ -37,14 +37,8 @@
 * Undergrowth Spider Queen
 * Undergrowth Stonetouch
 * Undergrowth Webber
-* Veteran Canyon Spider
-* Veteran Cave Spider
 * Veteran Enraged Spider
-* Veteran Enraged Spider Queen
-* Veteran Forest Spider
-* Veteran Jungle Spider
 * Veteran Maguuma Spider
 * Veteran Spider Queen
-* Veteran Toxic Spider
 * Veteran Venomspinner
 * Volatile Nightmare

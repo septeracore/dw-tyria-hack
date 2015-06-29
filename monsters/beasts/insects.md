@@ -21,9 +21,6 @@
 * Scutter Larvae
 * Termite Larva
 * Tree Parasite
-* Veteran Angry Wasp
 * Veteran Giant Enemy Wasp
-* Veteran Giant Spotted Beetle
-* Veteran Wasp
 * Veteran Wasp Queen
 * Wasp

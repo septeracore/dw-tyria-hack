@@ -17,10 +17,7 @@
 * Skitz
 * Tunneling Devourer
 * Veteran Ancient Devourer
-* Veteran Arid Parasite Devourer
-* Veteran Giant Devourer
 * Veteran Giant Devourer Koptrik
-* Veteran Lashtail Devourer
 * Veteran Sharptail
 * Whiptail Devourer
 * Whiptail Devourer Hatchling

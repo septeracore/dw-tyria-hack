@@ -32,9 +32,5 @@
 * Trained Shark
 * Triop
 * Tuna
-* Veteran Armored Fish
-* Veteran Electric Fish
-* Veteran Giant Arctic Jellyfish
 * Veteran Sawtooth Barracuda
 * Veteran Shark
-* Veteran Spiketail Fish

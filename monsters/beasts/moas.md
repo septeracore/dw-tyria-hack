@@ -28,9 +28,5 @@
 * Pygmy Moa
 * Three-Toed Tootsie
 * Veteran Beak of Darkness
-* Veteran Blue Moa Bird
-* Veteran Golden Moa
-* Veteran Green Moa
 * Veteran King Moa
-* Veteran Pink Moa
 * White Moa

@@ -19,8 +19,6 @@
 * Sea Scorpion
 * Sea Turtle
 * Thundershrimp
-* Veteran Giant Arctic Crab
 * Veteran Giant Crab
 * Veteran Hermit Crab
-* Veteran Sea Scorpion
 * Wild Young Crab

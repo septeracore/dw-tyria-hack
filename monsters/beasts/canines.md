@@ -5,7 +5,6 @@
 * Bowen
 * Brud
 * Champion Alpha Wolf
-* Champion War Beast
 * Chomper
 * Cooper
 * Copper (NPC)
@@ -39,11 +38,7 @@
 * Veteran Alpha Wolf
 * Veteran Den Mother
 * Veteran Hrodvitr
-* Veteran Hyena
-* Veteran Rock Dog
 * Veteran Rock Dog Sentinel
-* Veteran Warg
-* Veteran Wolf
 * War Beast
 * Warg
 * Wolf

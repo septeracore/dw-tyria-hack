@@ -16,7 +16,4 @@
 * Snow Leopard
 * Stalker
 * Stalking Jaguar
-* Veteran Alpine Stalker
-* Veteran Jaguar
 * Veteran Jaguar Queen
-* Veteran Stalking Jaguar

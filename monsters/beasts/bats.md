@@ -7,4 +7,3 @@
 * Frost Bat
 * Fruit Bat
 * Vampire Bat
-* Veteran Vampire Bat

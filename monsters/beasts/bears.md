@@ -13,11 +13,7 @@
 * Plated Behemoth
 * Polar Bear
 * Stuffed Bear
-* Veteran Arctodus
 * Veteran Arctodus Denmother
 * Veteran Bear
-* Veteran Black Bear
-* Veteran Murellow
-* Veteran Plated Behemoth
 * Veteran Polar Bear Den Mother
 * Young Arctodus
